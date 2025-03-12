@@ -1,5 +1,7 @@
 # ynl container
 
+[![Docker Repository on Quay](https://quay.io/repository/jramsay/ynl/status "Docker Repository on Quay")](https://quay.io/repository/jramsay/ynl)
+
 This container is a thin wrapper around the Linux kernel's 'ynl/cli.py' script.
 
 ## Building
